@@ -1,12 +1,17 @@
 # Responsive Clothing Website
-## [Watch it on youtube](https://youtu.be/ngoug8NASoI)
-### Responsive Clothing Website
 
-- Responsive Clothing Website Design Using HTML CSS And JavaScript
-- Contains sliding images with the Swiper Js library
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This repository contains a Responsive Clothing Website created with HTML, CSS, and JavaScript. The project features sliding images using the Swiper JS library and is developed with a mobile-first methodology, ensuring compatibility with all mobile devices and providing a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## Features
+
+- Sliding images with the Swiper JS library
+- Attractive and modern UI design
+- Fully responsive layout
+- Developed with a mobile-first approach
+- Compatible with all mobile devices
 
 ![preview img](/preview.png)
+
+# Live Demo
+Check out the live version of the site here:
+https://shiva-ajay.github.io/Clothing-Website/
